@@ -1,2 +1,2 @@
-matarisama-for-elisp
+matarisama-in-elisp
 ====================
